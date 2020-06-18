@@ -13,6 +13,8 @@ Team members and their role on the team
 Engineers will display their github username
 Interns will display their school information
 Managers will display their office phone numbers
+
+
 ![](demo.png)
 
 About
